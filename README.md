@@ -17,7 +17,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 
-### Create the following Data frames:
+### The following Data frames are created:
 
 ```{R}
 features <- read.table("UCI HAR Dataset/features.txt")
