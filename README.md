@@ -97,7 +97,7 @@ bodyAccYtest <- read.table("UCI HAR Dataset/test//Inertial Signals//body_acc_y_t
 bodyAccZtest <- read.table("UCI HAR Dataset/test//Inertial Signals//body_acc_z_test.txt")
 ```
 
-```{R]}
+```{R}
 bodyGyroXtest <- read.table("UCI HAR Dataset/test//Inertial Signals//body_gyro_x_test.txt")
 ```
 
